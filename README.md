@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emilythomastech" alt="emilythomastech" /></a> </p>
 
-- 🔭 I’m currently working on **AI data pipelines for a trading company**
+- 🔭 I’m currently working on **Building and optimizing data pipelines on AWS and Snowflake for an AI team at an investment company, as well as consulting for multiple AI start-ups**
 
-- 🌱 I’m currently learning **Machine Learning, Snowflake, algorithms, optimization**
+- 🌱 I’m currently learning **A deeper understanding of the algorithms that drive machine learning, as well as how to maximize compute for an optimal cost**
 
-- 👯 I’m looking to collaborate on **Machine and deep learning, preparing datasets**
+- 👯 I’m looking to collaborate on **Optimizing datasets for AI, fine tuning and model refinement, interested in quantum computing**
 
-- 🤝 I’m looking for help with **Fine tuning and translating intuition into compute**
+- 🤝 I’m looking for help with **Translating human intuition into compute power to surpass current binary logic**
 
-- 👨‍💻 All of my projects are available at [https://github.com/emilythomastech](https://github.com/emilythomastech)
+- 👨‍💻 Some of my projects are available at [https://github.com/emilythomastech](https://github.com/emilythomastech)
 
-- 💬 Ask me about **Cloud architecture, AI models, python, data pipelines, scale, product delivery, React and mobile apps**
+- 💬 Ask me about **Cloud and serverless architectures, foundation models, infrastructure as code, scale, end-to-end product delivery, my custom prototypes and mobile apps**
 
 - 📫 How to reach me **emilythomastech@gmail.com**
 
